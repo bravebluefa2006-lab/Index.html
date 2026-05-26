@@ -1,0 +1,6 @@
+{
+  "name": "Arzhaar Brhave",
+  "description": "Discover your signature scent with luxury perfumes from Arzhaar Brhave in Karachi. Premium brands, bespoke blends, and exquisite scents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
